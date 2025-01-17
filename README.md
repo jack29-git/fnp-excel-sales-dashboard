@@ -44,8 +44,8 @@
 
 ## **Revenue Analysis:**
 - By Occasion: Revenue is highest for “Anniversary” and “Valentine’s Day,” indicating the importance of targeting these events.
-- By Category: The "Colors" category (e.g., flowers, decorations) generated the most revenue (₹1,005,645), followed by "Cakes" (₹329,862).
-- By Month: February leads in revenue (₹704,509), aligning with Valentine’s Day, while April shows a significant dip (₹140,393).
+- By Category: The "Colors" category (e.g., flowers, decorations) generated the most revenue ₹1,005,645, followed by "Cakes" ₹329,862.
+- By Month: February leads in revenue ₹704,509, aligning with Valentine’s Day, while April shows a significant dip ₹140,393.
 - By Hour: Revenue peaks during late morning and early evening hours, suggesting optimal marketing times.
 Product Performance:
 
