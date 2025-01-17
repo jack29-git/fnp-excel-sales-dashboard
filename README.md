@@ -36,27 +36,27 @@
 - Plan marketing campaigns targeting high-revenue occasions.
 
 ## Key Insights
-- **Overall Performance:**
+## **Overall Performance:**
 - Total Orders: 1,000
 - Total Revenue: ₹3,520,984
 - Average Customer Spend: ₹3,520.98
 - Average Order-Delivery Time: 5.53 days
 
-- **Revenue Analysis:**
+## **Revenue Analysis:**
 - By Occasion: Revenue is highest for “Anniversary” and “Valentine’s Day,” indicating the importance of targeting these events.
 - By Category: The "Colors" category (e.g., flowers, decorations) generated the most revenue (₹1,005,645), followed by "Cakes" (₹329,862).
 - By Month: February leads in revenue (₹704,509), aligning with Valentine’s Day, while April shows a significant dip (₹140,393).
 - By Hour: Revenue peaks during late morning and early evening hours, suggesting optimal marketing times.
 Product Performance:
 
-- **Top 5 Products:**
+## **Top 5 Products:**
 - Magnam Set: ₹121,905
 - Dolores Gift: ₹106,624
 - Harum Pack: ₹101,556
 - Deserunt Box: ₹97,665
 - Quia Gift: ₹114,476
 
-- **Geographical Trends:**
+## **Geographical Trends:**
 - **Top Cities by Orders:** Imphal, North Dumdum, and Bhatar lead in sales volume, suggesting regional preferences for promotional targeting.
 - **Customer Behavior:**
 - Customers spend an average of ₹3,520.98 per order.
