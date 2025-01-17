@@ -57,8 +57,8 @@ Product Performance:
 - Quia Gift: ₹114,476
 
 ## **Geographical Trends:**
-- **Top Cities by Orders:** Imphal, North Dumdum, and Bhatar lead in sales volume, suggesting regional preferences for promotional targeting.
-- **Customer Behavior:**
+**Top Cities by Orders:** Imphal, North Dumdum, and Bhatar lead in sales volume, suggesting regional preferences for promotional targeting.
+**Customer Behavior:**
 - Customers spend an average of ₹3,520.98 per order.
 - Higher order volumes on Sundays and Tuesdays indicate potential days for focused campaigns.
 
